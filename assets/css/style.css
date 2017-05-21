@@ -1,0 +1,30 @@
+#giphy{
+
+	float: left;
+	width:74%;
+
+}
+#searchForm{
+
+	float: left;
+	width:24%;
+}
+.row{
+
+	min-height: 100px;
+}
+.item{
+	float:left;
+	padding: 10px;
+
+}
+
+.button{
+	padding:20px;
+	border-radius: 20%;
+	background-color: blue;
+}
+#submit{
+	height:30px;
+	width:70px;
+}
